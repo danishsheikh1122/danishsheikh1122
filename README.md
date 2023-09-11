@@ -6,7 +6,7 @@
 
 - My resume [https://drive.google.com/file/d/14w4gUYbykKW9KycpD9Gedtlx2OnzfZxb/view?usp=sharing](https://drive.google.com/file/d/14w4gUYbykKW9KycpD9Gedtlx2OnzfZxb/view?usp=sharing)
 
-- 💬 Ask me about **I like to be anonymous**
+- 💬 Ask me about nothing **I like to be anonymous**
 
 - 📫 How to reach me **sheikhsk1122@gmail.com**
 
