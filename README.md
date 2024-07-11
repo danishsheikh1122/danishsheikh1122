@@ -2,16 +2,7 @@
 <br clear="both">
 <h2 align="center">Do you want to know about me? I'm just a PULL-stack developer</h2>
 
-
 <img align ='center' src="https://raw.githubusercontent.com/danishsheikh1122/danishsheikh1122/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-
-
-
 <h3 align="center">Current Tech Stack</h3>
 
 ###
@@ -49,6 +40,9 @@
         height="40" alt="typescript logo" style="border-radius: 1rem;"/>
     <img width="12" />
     <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" height="40"
+        alt="mysql logo" style="border-radius: 1rem;"/>
+    <img width="12" />
+     <img src="https://avatars.githubusercontent.com/u/66879934?v=4" height="40"
         alt="mysql logo" style="border-radius: 1rem;"/>
     <img width="12" />
 </div>
