@@ -10,9 +10,6 @@
 ###
 
 <h2 align="left">ABOUT ME DANUUU PSD-Pull-stack-developer</h2>
-	@@ -21,40 +17,13 @@
-
-<h2 align="left">ABOUT ME DANUUU PSD-Pull-stack-developer</h2>
 
 ###
 
