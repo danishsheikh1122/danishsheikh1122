@@ -1,16 +1,16 @@
 
 <br clear="both">
 <h2 align="center">Do you want to know about me? I'm just a PULL-stack developer</h2>
-###
+
 
 <img align ='center' src="https://raw.githubusercontent.com/danishsheikh1122/danishsheikh1122/output/snake.svg" alt="Snake animation" />
 
 
-###
 
 
 
-###
+
+
 
 <h3 align="center">Current Tech Stack</h3>
 
