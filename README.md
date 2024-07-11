@@ -5,7 +5,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danishsheikh1122/danishsheikh1122/output/snake.svg" alt="Snake animation" />
+<img align ='center' src="https://raw.githubusercontent.com/danishsheikh1122/danishsheikh1122/output/snake.svg" alt="Snake animation" />
 
 </div>
 ###
