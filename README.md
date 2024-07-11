@@ -1,8 +1,6 @@
 
 <br clear="both">
-
-<img align="center" height="200" src="https://avatars.githubusercontent.com/u/144151435?v=4" />
-
+<h2 align="center">Do you want to know about me? I'm just a PULL-stack developer</h2>
 ###
 
 <img align ='center' src="https://raw.githubusercontent.com/danishsheikh1122/danishsheikh1122/output/snake.svg" alt="Snake animation" />
@@ -10,7 +8,7 @@
 
 ###
 
-<h2 align="left">ABOUT ME DANUUU PSD-Pull-stack-developer</h2>
+
 
 ###
 
