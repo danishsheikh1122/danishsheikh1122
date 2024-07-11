@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/144151435?v=4"  />
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/144151435?v=4" style="border-radius:2rem;" />
 
 ###
 
