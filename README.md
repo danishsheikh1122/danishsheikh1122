@@ -1,16 +1,16 @@
+
 <br clear="both">
-<div align="center">
 
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/144151435?v=4"  />
 
-    <img align="center" height="200" src="https://avatars.githubusercontent.com/u/144151435?v=4" style="border-radius: 2rem;"/>
-
-    ###
-
-    <img align="center" src="https://raw.githubusercontent.com/danishsheikh1122/danishsheikh1122/output/snake.svg"
-        alt="Snake animation" />
-
-</div>
 ###
+
+<img src="https://raw.githubusercontent.com/danishsheikh1122/danishsheikh1122/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">ABOUT ME DANUUU PSD-Pull-stack-developer</h2>
+	@@ -21,40 +17,13 @@
 
 <h2 align="left">ABOUT ME DANUUU PSD-Pull-stack-developer</h2>
 
