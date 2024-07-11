@@ -2,6 +2,7 @@
 <br clear="both">
 
 <img align="left" height="200" src="https://avatars.githubusercontent.com/u/144151435?v=4" />
+<span style="color: blue; font-size: 20px;">Styled Text</span>
 
 ###
 
