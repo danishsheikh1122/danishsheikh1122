@@ -22,32 +22,20 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"
-        height="40" alt="nextjs logo"  style="border: 2px solid #2ea44f; /* GitHub's Emerald color */
+        height="40" alt="nextjs logo" style=" border: 2px solid #2ea44f; /* GitHub's Emerald color */
         border-radius: 5px; /* Rounded corners for the border */
-        padding: 4px; /* Padding inside the border */
+        padding: 10px; /* Padding inside the border */
         background-color: #f0f0f0; /* Background color */
-        box-shadow: 0 0 4px #2ea44f; /* Silver shadow effect */"/>
+        box-shadow: 0 0 10px #2ea44f; /* Silver shadow effect */" />
     <img width="12" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"
-        height="40" alt="typescript logo"  style="border: 2px solid #2ea44f; /* GitHub's Emerald color */
-        border-radius: 5px; /* Rounded corners for the border */
-        padding: 4px; /* Padding inside the border */
-        background-color: #f0f0f0; /* Background color */
-        box-shadow: 0 0 4px #2ea44f; /* Silver shadow effect */"/>
+        height="40" alt="typescript logo" />
     <img width="12" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40"
-        alt="mysql logo"  style="border: 2px solid #2ea44f; /* GitHub's Emerald color */
-        border-radius: 5px; /* Rounded corners for the border */
-        padding: 4px; /* Padding inside the border */
-        background-color: #f0f0f0; /* Background color */
-        box-shadow: 0 0 4px #2ea44f; /* Silver shadow effect */"/>
+        alt="mysql logo" />
     <img width="12" />
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge"
-        height="40" alt="tailwindcss logo" style="border: 2px solid #2ea44f; /* GitHub's Emerald color */
-        border-radius: 5px; /* Rounded corners for the border */
-        padding: 4px; /* Padding inside the border */
-        background-color: #f0f0f0; /* Background color */
-        box-shadow: 0 0 4px #2ea44f; /* Silver shadow effect */" />
+        height="40" alt="tailwindcss logo" />
 </div>
 
 ###
